@@ -1,1 +1,0 @@
-# jhead1---nuxt

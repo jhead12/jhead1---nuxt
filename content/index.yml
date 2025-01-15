@@ -1,0 +1,36 @@
+hero:
+  title: Welcome My Projects Site
+  description: 
+  buttons:
+    - label: Schedule Meeting
+      url: https://calendly.com/jeldonmusic/braindumps
+logos:
+  title: Joshua is powerful asset to your company goals
+  icons:
+    # - name: i-simple-icons-gitlab
+    - name: i-simple-icons-github
+    - name: i-simple-icons-openai
+    - name: i-simple-icons-google
+    - name: i-simple-icons-netlify
+features:
+  title: Why choose Joshua Head?
+  description: Joshua Provides a wide range of services to help you achieve your goals.
+  items:
+    - title: Marketing and Sales
+      description: Joshua diverse background to sales and marketing adds a layer of expertise to your projects goals.
+    - title: Full Stack Developmeer
+      description: Over years experience in full stack development, Joshua can help you build your next project.
+    - title: Music Production
+      description: Joshua dynamic background in music technology greatly influences his approach to problem solving.
+    - title: Marketing Analysis
+      description: Joshua has a keen eye for detail and can help you analyze your marketing data.
+    # - title: Dynamic Imports
+    #   description: It supports lazy loading of components with dynamic imports to improve performance by splitting the code into smaller chunks.
+    # - title: SEO Friendly
+    #   description: With SSR, SSG, and automatic meta tag handling, Nuxt.js ensures your application is SEO-friendly.
+cta:
+  title:  Hire Joshua Head Today
+  description: Let Joshua help you achieve your business goals.
+  buttons:
+    - label: Let's Schedule a meeting
+      url: https://calendly.com/jeldonmusic/braindumps

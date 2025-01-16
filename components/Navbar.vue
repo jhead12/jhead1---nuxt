@@ -1,14 +1,14 @@
 <script setup>
 const menuitems = [
-  {
-    title: "Sign up",
-    url: "",
-  },
-  {
-    title: "Log in",
-    url: "",
-  },
-];
+//   {
+//     title: "Sign up",
+//     url: "",
+//   },
+//   {
+//     title: "Log in",
+//     url: "",
+//   },
+// ];
 </script>
 
 <template>

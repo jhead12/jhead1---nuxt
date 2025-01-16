@@ -1,14 +1,14 @@
 <script setup>
 const menuitems = [
-//   {
-//     title: "Sign up",
-//     url: "",
-//   },
-//   {
-//     title: "Log in",
-//     url: "",
-//   },
-// ];
+  // {
+  //   title: "Sign up",
+  //   url: "",
+  // },
+  // {
+  //   title: "Log in",
+  //   url: "",
+  // },
+];
 </script>
 
 <template>
@@ -16,7 +16,7 @@ const menuitems = [
     <header class="flex flex-row flex-wrap items-center justify-between my-4 gap-x-6 gap-y-4  bg-customLight ">
       <div class="flex items-center justify-between ">
         <a href="/" class="text-2xl"
-          ><span class="font-bold text-zinc-800"><span class="text-green-500">&#10070;</span> Joshua Head</span>
+          ><span class="font-bold text-cicle-800"> Joshua Head Business Vison</span>
         </a>
       </div>
       <nav class="flex w-auto">

@@ -4,14 +4,14 @@ hero:
   buttons:
     - label: Schedule Meeting
       url: https://calendly.com/support-xx6/marketing-consulation
-# logos:
-#   title: Joshua is powerful asset to your company goals
-#   icons:
-#     # - name: i-simple-icons-gitlab
-#     - name: i-simple-icons-github
-#     - name: i-simple-icons-openai
-#     - name: i-simple-icons-google
-#     - name: i-simple-icons-netlify
+logos:
+  title: 
+  icons:
+    # - name: i-simple-icons-gitlab
+    # - name: i-simple-icons-github
+    # - name: i-simple-icons-openai
+    # - name: i-simple-icons-google
+    # - name: i-simple-icons-netlify
 features:
   title: Why choose Joshua Head?
   description: Joshua Provides a wide range of services to help you achieve your goals.

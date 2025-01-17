@@ -12,14 +12,7 @@ export default defineNuxtConfig({
     },
   },
 
-  modules: ['@nuxt/content', "nuxt-icon", "@nuxtjs/apollo"],
-   apollo: {
-    clientConfigs: {
-      default: {
-        httpEndpoint: "http://numberlessagingcom.local/graphql",
-      },
-    },
-  },
+  modules: ['@nuxt/content', "nuxt-icon"],
 
   compatibilityDate: "2024-12-18",
 });

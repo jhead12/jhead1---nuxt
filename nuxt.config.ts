@@ -1,3 +1,5 @@
+
+
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
@@ -10,6 +12,14 @@ export default defineNuxtConfig({
     },
   },
 
-  modules: ['@nuxt/content', "nuxt-icon"],
+  modules: ['@nuxt/content', "nuxt-icon", "@nuxtjs/apollo"],
+   apollo: {
+    clientConfigs: {
+      default: {
+        httpEndpoint: "http://numberlessagingcom.local/graphql",
+      },
+    },
+  },
+
   compatibilityDate: "2024-12-18",
 });

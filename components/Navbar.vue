@@ -13,7 +13,7 @@ const menuitems = [
 
 <template>
   <Container>
-    <header class="flex flex-row flex-wrap items-center justify-between my-4 gap-x-6 gap-y-4  bg-customLight ">
+    <header class="flex flex-row flex-wrap items-center justify-between my-4 gap-x-6 gap-y-4">
       <div class="flex items-center justify-between ">
         <a href="/" class="text-2xl"
           ><span class="font-bold text-cicle-800"> Joshua Head Business Vison</span>

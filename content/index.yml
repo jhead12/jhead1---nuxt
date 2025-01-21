@@ -8,11 +8,16 @@ hero:
 logos:
   title: 
   icons:
-    # - name: i-simple-icons-gitlab
-    # - name: i-simple-icons-github
+  # - name: i-simple-icons-gitlab
+  #     link: https://gitlab.com
+    - name: i-simple-icons-github
+      link: https://github.com/jhead12
     # - name: i-simple-icons-openai
-    # - name: i-simple-icons-google
+    #   link: https://openai.com
+    - name: i-simple-icons-youtube
+      link: https://www.youtube.com/@jeldon
     # - name: i-simple-icons-netlify
+    #   link: https://app.netlify.com/teams/jhead12/sites
 
 features:
   title: Why choose Joshua Head?

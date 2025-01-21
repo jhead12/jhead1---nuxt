@@ -25,9 +25,9 @@ const props = defineProps({
 
 <template>
   <div
-    class="flex flex-col items-center px-10 py-10 mx-auto mb-20 text-center border-2 border-green-500 border-dashed rounded-lg sm:px-20 sm:py-20"
+    class="flex flex-col items-center text-customLightpx-10 py-10 mx-auto mb-20 text-center border-2 border-green-500 border-dashed rounded-lg sm:px-20 sm:py-20"
   >
-    <h2 class="text-4xl font-bold text-customLight text-balance text-zinc-800 sm:text-5xl" v-if="title">{{title}}</h2>
+    <h2 class="text-4xl font-bold text-white text-balance text-zinc-800 sm:text-5xl" v-if="title">{{title}}</h2>
     <p class="mt-4 text-lg text-customLight text-zinc-600 sm:text-xl" v-if="description">
       {{ description }}
     </p>

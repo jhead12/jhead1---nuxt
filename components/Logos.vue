@@ -19,7 +19,7 @@ const props = defineProps({
     <div class="flex flex-wrap items-center justify-center mt-10 gap-x-12 gap-y-8 sm:gap-x-24 sm:gap-y-12">
       <div v-for="icon of icons" :key="icon.name">
         <a v-if="icon.link" :href="icon.link" target="_blank" rel="noopener noreferrer">
-        <Icon class="h-8 md:h-12" v-if="icon.name" :name="icon.name" size="48" />
+        <Icon class="h-8 md:h-12 transition-transform duration-300 transform hover:scale-110 " v-if="icon.name" :name="icon.name" size="48" />
         </a>
         <!-- <Icon class="h-8 md:h-12" v-if="icon.name" :name="icon.name" size="48" /> -->
 

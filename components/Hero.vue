@@ -27,7 +27,7 @@ const props = defineProps({
   <div class="flex flex-col gap-12 mt-10 mb-20 lg:items-center lg:flex-row">
     <div class="flex-1 w-full">
       <img
-        class="rounded-lg"
+        class="rounded-lg transition-transform duration-300 transform hover:scale-110"
         src="~/assets/img/hero.jpg"
         alt="Nuxt image"
         loading="eager"

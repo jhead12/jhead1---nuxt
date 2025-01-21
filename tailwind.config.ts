@@ -13,14 +13,20 @@ export default {
   theme: {
     extend: {
       colors: {
-        customBg: "#fcd37c",
+        customPrimary: "#0b1536",
+        customBg: "#0c1436",
         customSecondary: "#d4a55d",
-        customAccent: "#ffe4b3",
+        customAccent: "#e4ccaf",
         customDark: "#8c6a3d",
         customLight: "#fff8e1",
+        customWhite: "#ffffff", // Add custom white color if needed
+
       },
       fontFamily: {
         sans: ["Helvetica", ...defaultTheme.fontFamily.sans],
+        serif: [...defaultTheme.fontFamily.serif],
+        mono: [...defaultTheme.fontFamily.mono],
+        
       },
     },
   },

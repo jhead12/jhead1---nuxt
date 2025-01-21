@@ -14,5 +14,23 @@ export default defineNuxtConfig({
 
   modules: ['@nuxt/content', "nuxt-icon"],
 
+  vite: {
+    plugins: [
+      {
+        name: 'yaml-loader',
+        enforce: 'pre',
+        transform(src, id) {
+          if (id.endsWith('.yml') || id.endsWith('.yaml')) {
+            return {
+              code: `export default ${JSON.stringify(require('js-yaml').load(src))}`,
+              map: null,
+            }
+          }
+        },
+      },
+    ],
+    assetsInclude: ['**/*.yml', '**/*.yaml'],
+  },
+
   compatibilityDate: "2024-12-18",
 });

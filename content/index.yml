@@ -16,18 +16,33 @@ features:
   title: Why choose Joshua Head?
   description: Joshua Provides a wide range of services to help you achieve your goals.
   items:
-    - title: Marketing and Sales
-      description: Joshua diverse background to sales and marketing adds a layer of expertise to your projects goals.
-    - title: Full Stack Developmeer
-      description: Over years six year experience in full stack development, Joshua can help you build your next project.
-    - title: Music Production
-      description: Joshua dynamic background in music technology greatly influences his approach to problem solving.
-    - title: Marketing Analysis
-      description: Joshua has a keen eye for detail and can help you analyze your marketing data.
-    # - title: Dynamic Imports
-    #   description: It supports lazy loading of components with dynamic imports to improve performance by splitting the code into smaller chunks.
-    # - title: SEO Friendly
-    #   description: With SSR, SSG, and automatic meta tag handling, Nuxt.js ensures your application is SEO-friendly.
+  - title: Marketing and Sales
+    description: Joshua's diverse background in sales and marketing adds a layer of expertise to your project's goals.
+    LongDescription: Joshua's diverse background in sales and marketing adds a layer of expertise to your project's goals. He has worked with numerous clients to develop effective marketing strategies and drive sales growth.
+  - title: Full Stack Developer
+    description: With over six years of experience in full stack development, Joshua can help you build your next project.
+    LongDescription: With over six years of experience in full stack development, Joshua can help you build your next project. He is proficient in various programming languages and frameworks, ensuring your project is built with the best tools available.
+  - title: Music Production
+    description: Joshua's dynamic background in music technology greatly influences his approach to problem-solving.
+    LongDescription: Joshua's dynamic background in music technology greatly influences his approach to problem-solving. He has produced music for various artists and understands the intricacies of sound design and production.
+  - title: Marketing Analysis
+    description: Joshua has a keen eye for detail and can help you analyze your marketing data.
+    LongDescription: Joshua has a keen eye for detail and can help you analyze your marketing data. He uses advanced analytical tools to provide insights that can drive your marketing strategy forward.
+  - title: CTE Teacher
+    description: Adapted innovative teaching methodologies to align with diverse learning styles, bolstering student success in digital and audio-centric careers.
+    LongDescription: Adapted innovative teaching methodologies to align with diverse learning styles, bolstering student success in digital and audio-centric careers. Improved audio production efficiency by 25% by introducing streamlined processes and technology upgrades. Increased student engagement by 30% through the implementation of targeted lesson plans and strategic partnerships.
+  - title: Elections Dispatcher
+    description: In a fast-paced environment, coordinated with on-field election poll set teams to ensure locations are set to Los Angeles county’s specifications.
+    LongDescription: In a fast-paced environment, coordinated with on-field election poll set teams to ensure locations are set to Los Angeles county’s specifications. Managed teams to complete sites on time and recommended leadership to solve elevated issues with the site, requiring communication with various vendors and coordination with supply trucks.
+  - title: Senior Creative Producer
+    description: Crafted, refined, and presented creative briefs, timelines, and comprehensive project plans that reinforced clear communication and alignment.
+    LongDescription: Crafted, refined, and presented creative briefs, timelines, and comprehensive project plans that reinforced clear communication and alignment. Orchestrated interdisciplinary teams to create innovative content for the music industry, focusing on global product launches and experience design.
+  - title: Business Development
+    description: Fostered strong relationships with recording studios, radio stations, and restaurants to aid online students, using advanced CRM and communication tools to reinforce business alliances.
+    LongDescription: Fostered strong relationships with recording studios, radio stations, and restaurants to aid online students, using advanced CRM and communication tools to reinforce business alliances. Solved retention issues by pioneering student placement in remote areas and forming partnerships with top recording studios in the US and Australia.
+  - title: Coordinator Products And Campaigns
+    description: Established comprehensive frameworks for front-end development best practices, optimizing user data collection and detailed analysis for future campaigns.
+    LongDescription: Established comprehensive frameworks for front-end development best practices, optimizing user data collection and detailed analysis for future campaigns. Executed product launches and digital campaigns, leveraging expertise in SEO, Adobe Photoshop, and analytics tools to achieve targeted outcomes.
 cta:
   title:  Hire Joshua Head Today
   description: Let Joshua help you achieve your business goals.

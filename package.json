@@ -22,7 +22,8 @@
     "postcss": "^8.4.32",
     "tailwindcss": "^3.4.17",
     "vue": "^3.4.3",
-    "vue-router": "^4.2.5"
+    "vue-router": "^4.2.5",
+    "yaml-loader": "^0.8.1"
   },
   "dependencies": {
     "@nuxtjs/apollo": "^3.0.7",

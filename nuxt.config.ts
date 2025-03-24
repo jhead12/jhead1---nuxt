@@ -12,14 +12,14 @@ export default defineNuxtConfig({
     },
   },
 
-  modules: ['@nuxt/content', "nuxt-icon", "@nuxtjs/dotent"],
+  modules: ['@nuxt/content', "nuxt-icon", "@nuxtjs/dotent", '@nuxt/content'],
 
   vite: {
     plugins: [
       {
         name: 'yaml-loader',
         enforce: 'pre',
-        transform(src, id) {
+        transform(src: string, id: string) {
           if (id.endsWith('.yml') || id.endsWith('.yaml')) {
             return {
               code: `export default ${JSON.stringify(require('js-yaml').load(src))}`,

@@ -12,7 +12,7 @@ export default defineNuxtConfig({
     },
   },
 
-  modules: ['@nuxt/content', "nuxt-icon"],
+  modules: ['@nuxt/content', "nuxt-icon", "@nuxtjs/dotent"],
 
   vite: {
     plugins: [
